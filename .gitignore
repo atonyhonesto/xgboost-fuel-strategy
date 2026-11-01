@@ -1,0 +1,18 @@
+# Local Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Raw feed downloads (~800 files). The app only needs the small tables in data/*.csv;
+# build_data.py re-downloads anything missing from the cache.
+data/cache/
+
+# Notes for Claude Code and its backup script: they stay on the drive, not on GitHub
+CLAUDE.md
+backup_claude.bat
+
+# Editor / OS clutter
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

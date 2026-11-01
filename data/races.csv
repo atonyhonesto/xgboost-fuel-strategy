@@ -1,0 +1,54 @@
+race_id,season,track,track_name,race_date,scheduled_laps,actual_laps,stage_breaks,track_miles
+5181,2022,homestead,Homestead-Miami Speedway,2022-10-23,267,267,80 165,1.5
+5307,2023,homestead,Homestead-Miami Speedway,2023-10-22,267,267,80 165,1.5
+5426,2024,homestead,Homestead-Miami Speedway,2024-10-27,267,267,80 165,1.5
+5583,2025,homestead,Homestead-Miami Speedway,2025-03-23,267,267,80 165,1.5
+5158,2022,kansas,Kansas Speedway,2022-05-15,267,267,80 165,1.498
+5175,2022,kansas,Kansas Speedway,2022-09-11,267,267,80 165,1.498
+5284,2023,kansas,Kansas Speedway,2023-05-07,267,267,80 165,1.498
+5301,2023,kansas,Kansas Speedway,2023-09-10,267,268,80 165,1.498
+5400,2024,kansas,Kansas Speedway,2024-05-05,267,268,80 165,1.5
+5420,2024,kansas,Kansas Speedway,2024-09-29,267,267,80 165,1.5
+5557,2025,kansas,Kansas Speedway,2025-05-11,267,267,80 165,1.5
+5579,2025,kansas,Kansas Speedway,2025-09-28,267,273,80 165,1.5
+5607,2026,kansas,Kansas Speedway,2026-04-19,267,274,80 165,1.5
+5628,2026,kansas,Kansas Speedway,2026-09-27,267,267,80 165,1.5
+5148,2022,las-vegas,Las Vegas Motor Speedway,2022-03-06,267,274,80 165,1.498
+5180,2022,las-vegas,Las Vegas Motor Speedway,2022-10-16,267,267,80 165,1.5
+5270,2023,las-vegas,Las Vegas Motor Speedway,2023-03-05,267,271,80 165,1.498
+5306,2023,las-vegas,Las Vegas Motor Speedway,2023-10-15,267,267,80 165,1.5
+5387,2024,las-vegas,Las Vegas Motor Speedway,2024-03-03,267,267,80 165,1.498
+5425,2024,las-vegas,Las Vegas Motor Speedway,2024-10-20,267,267,80 165,1.5
+5548,2025,las-vegas,Las Vegas Motor Speedway,2025-03-16,267,267,80 165,1.5
+5582,2025,las-vegas,Las Vegas Motor Speedway,2025-10-12,267,267,80 165,1.5
+5600,2026,las-vegas,Las Vegas Motor Speedway,2026-03-15,267,267,80 165,1.5
+5630,2026,las-vegas,Las Vegas Motor Speedway,2026-10-04,267,267,80 165,1.5
+5153,2022,martinsville,Martinsville Speedway,2022-04-09,400,403,80 180,0.525
+5182,2022,martinsville,Martinsville Speedway,2022-10-30,500,500,130 260,0.526
+5275,2023,martinsville,Martinsville Speedway,2023-04-16,400,400,80 180,0.525
+5308,2023,martinsville,Martinsville Speedway,2023-10-29,500,500,130 260,0.526
+5397,2024,martinsville,Martinsville Speedway,2024-04-07,400,415,80 180,0.526
+5427,2024,martinsville,Martinsville Speedway,2024-11-03,500,500,130 260,0.526
+5553,2025,martinsville,Martinsville Speedway,2025-03-30,400,400,80 180,0.526
+5584,2025,martinsville,Martinsville Speedway,2025-10-26,500,500,130 260,0.526
+5602,2026,martinsville,Martinsville Speedway,2026-03-29,400,400,80 180,0.526
+5170,2022,michigan,Michigan International Speedway,2022-08-07,200,200,45 120,2.0
+5296,2023,michigan,Michigan International Speedway,2023-08-06,200,200,45 120,2.0
+5415,2024,michigan,Michigan International Speedway,2024-08-18,200,206,45 120,2.0
+5573,2025,michigan,Michigan International Speedway,2025-06-08,200,200,45 120,2.0
+5612,2026,michigan,Michigan International Speedway,2026-06-07,200,200,45 120,2.0
+5164,2022,nashville,Nashville Superspeedway,2022-06-26,300,300,90 185,1.33
+5290,2023,nashville,Nashville Superspeedway,2023-06-25,300,300,90 185,1.33
+5409,2024,nashville,Nashville Superspeedway,2024-06-30,300,331,90 185,1.33
+5568,2025,nashville,Nashville Superspeedway,2025-06-01,300,300,90 185,1.33
+5611,2026,nashville,Nashville Superspeedway,2026-05-31,300,300,90 185,1.33
+5168,2022,pocono,Pocono Raceway,2022-07-24,160,160,30 95,2.5
+5294,2023,pocono,Pocono Raceway,2023-07-23,160,160,30 95,2.5
+5413,2024,pocono,Pocono Raceway,2024-07-14,160,160,30 95,2.5
+5570,2025,pocono,Pocono Raceway,2025-06-22,160,160,30 95,2.5
+5614,2026,pocono,Pocono Raceway,2026-06-14,160,160,30 95,2.5
+5177,2022,texas,Texas Motor Speedway,2022-09-25,334,334,105 210,1.497
+5303,2023,texas,Texas Motor Speedway,2023-09-24,267,267,80 165,1.498
+5422,2024,texas,Texas Motor Speedway,2024-04-14,267,276,80 165,1.5
+5554,2025,texas,Texas Motor Speedway,2025-05-04,267,271,80 165,1.5
+5606,2026,texas,Texas Motor Speedway,2026-05-03,267,267,80 165,1.5

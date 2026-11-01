@@ -1,0 +1,22 @@
+# App look: black and white with yellow, red and blue racing accents.
+# Light and dark both defined; viewers can switch in the app's Settings menu.
+
+[theme]
+headingFontWeights = [800, 800, 800, 700, 700, 700]
+baseRadius = "small"
+
+[theme.light]
+primaryColor = "#0062b1"
+linkColor = "#0062b1"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f2f2f2"
+textColor = "#0b0b0b"
+borderColor = "#dcdcdc"
+
+[theme.dark]
+primaryColor = "#ffd400"
+linkColor = "#ffd400"
+backgroundColor = "#121212"
+secondaryBackgroundColor = "#1e1e1e"
+textColor = "#f2f2f2"
+borderColor = "#333333"

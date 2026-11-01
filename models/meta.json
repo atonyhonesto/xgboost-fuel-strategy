@@ -1,0 +1,36 @@
+{
+  "trained_on_races": 53,
+  "last_race": "2026-10-04",
+  "backtest_from": "2024-01-01",
+  "yellow_burn": 0.35,
+  "features": {
+    "caution": [
+      "track",
+      "track_miles",
+      "lap_frac",
+      "laps_to_go",
+      "stage",
+      "laps_to_stage_end",
+      "laps_since_green"
+    ],
+    "green": [
+      "track",
+      "track_miles",
+      "fuel_used",
+      "laps_to_go",
+      "laps_to_stage_end",
+      "stage",
+      "lap_frac"
+    ],
+    "yellow": [
+      "track",
+      "track_miles",
+      "fuel_used",
+      "laps_to_go",
+      "laps_to_stage_end",
+      "stage",
+      "lap_frac",
+      "stage_break"
+    ]
+  }
+}
